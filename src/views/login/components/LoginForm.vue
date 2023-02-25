@@ -12,7 +12,7 @@
         <a-checkbox>记住我</a-checkbox>
       </a-form-item>
       <a-form-item>
-        <a-button style="width: 100%" type="primary" size="large" html-type="submit" @click="login">登录欣欣【123】</a-button>
+        <a-button style="width: 100%" type="primary" size="large" html-type="submit" @click="login">登录欣欣lf,fmvfmvfm</a-button>
       </a-form-item>
     </a-form>
     <div>{{ name}}</div>
